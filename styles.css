@@ -24,7 +24,9 @@ body {
 }
 
 #task-list {
-    list-style: none;
+    color: #0f0e0e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: style b;;
     padding: 0;
     margin: 20px 0;
 }
@@ -40,7 +42,7 @@ body {
 
 .task.completed {
     text-decoration: line-through;
-    color: #999;
+    color: #e0dd1c;
 }
 
 .task button {
